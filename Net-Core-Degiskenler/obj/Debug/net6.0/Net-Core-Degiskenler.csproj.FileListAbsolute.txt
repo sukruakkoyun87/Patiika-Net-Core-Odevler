@@ -1,0 +1,15 @@
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-Degiskenler\bin\Debug\net6.0\Net-Core-Degiskenler.exe
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-Degiskenler\bin\Debug\net6.0\Net-Core-Degiskenler.deps.json
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-Degiskenler\bin\Debug\net6.0\Net-Core-Degiskenler.runtimeconfig.json
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-Degiskenler\bin\Debug\net6.0\Net-Core-Degiskenler.dll
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-Degiskenler\bin\Debug\net6.0\Net-Core-Degiskenler.pdb
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-Degiskenler\obj\Debug\net6.0\Net-Core-Degiskenler.csproj.AssemblyReference.cache
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-Degiskenler\obj\Debug\net6.0\Net-Core-Degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-Degiskenler\obj\Debug\net6.0\Net-Core-Degiskenler.AssemblyInfoInputs.cache
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-Degiskenler\obj\Debug\net6.0\Net-Core-Degiskenler.AssemblyInfo.cs
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-Degiskenler\obj\Debug\net6.0\Net-Core-Degiskenler.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-Degiskenler\obj\Debug\net6.0\Net-Core-Degiskenler.dll
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-Degiskenler\obj\Debug\net6.0\refint\Net-Core-Degiskenler.dll
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-Degiskenler\obj\Debug\net6.0\Net-Core-Degiskenler.pdb
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-Degiskenler\obj\Debug\net6.0\Net-Core-Degiskenler.genruntimeconfig.cache
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-Degiskenler\obj\Debug\net6.0\ref\Net-Core-Degiskenler.dll
