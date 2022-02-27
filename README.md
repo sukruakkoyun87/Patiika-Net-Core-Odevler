@@ -1,0 +1,1 @@
+"# Patiika-Net-Core-Odevler" 
