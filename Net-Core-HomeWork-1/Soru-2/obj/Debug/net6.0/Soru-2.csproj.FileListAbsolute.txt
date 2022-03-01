@@ -1,0 +1,15 @@
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-HomeWork-1\Soru-2\obj\Debug\net6.0\Soru-2.csproj.AssemblyReference.cache
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-HomeWork-1\Soru-2\obj\Debug\net6.0\Soru-2.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-HomeWork-1\Soru-2\obj\Debug\net6.0\Soru-2.AssemblyInfoInputs.cache
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-HomeWork-1\Soru-2\obj\Debug\net6.0\Soru-2.AssemblyInfo.cs
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-HomeWork-1\Soru-2\obj\Debug\net6.0\Soru-2.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-HomeWork-1\Soru-2\bin\Debug\net6.0\Soru-2.exe
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-HomeWork-1\Soru-2\bin\Debug\net6.0\Soru-2.deps.json
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-HomeWork-1\Soru-2\bin\Debug\net6.0\Soru-2.runtimeconfig.json
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-HomeWork-1\Soru-2\bin\Debug\net6.0\Soru-2.dll
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-HomeWork-1\Soru-2\bin\Debug\net6.0\Soru-2.pdb
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-HomeWork-1\Soru-2\obj\Debug\net6.0\Soru-2.dll
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-HomeWork-1\Soru-2\obj\Debug\net6.0\refint\Soru-2.dll
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-HomeWork-1\Soru-2\obj\Debug\net6.0\Soru-2.pdb
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-HomeWork-1\Soru-2\obj\Debug\net6.0\Soru-2.genruntimeconfig.cache
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-HomeWork-1\Soru-2\obj\Debug\net6.0\ref\Soru-2.dll
