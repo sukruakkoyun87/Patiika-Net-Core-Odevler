@@ -1,0 +1,15 @@
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-While-ForEach\bin\Debug\net6.0\Net-Core-While-ForEach.exe
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-While-ForEach\bin\Debug\net6.0\Net-Core-While-ForEach.deps.json
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-While-ForEach\bin\Debug\net6.0\Net-Core-While-ForEach.runtimeconfig.json
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-While-ForEach\bin\Debug\net6.0\Net-Core-While-ForEach.dll
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-While-ForEach\bin\Debug\net6.0\Net-Core-While-ForEach.pdb
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-While-ForEach\obj\Debug\net6.0\Net-Core-While-ForEach.csproj.AssemblyReference.cache
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-While-ForEach\obj\Debug\net6.0\Net-Core-While-ForEach.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-While-ForEach\obj\Debug\net6.0\Net-Core-While-ForEach.AssemblyInfoInputs.cache
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-While-ForEach\obj\Debug\net6.0\Net-Core-While-ForEach.AssemblyInfo.cs
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-While-ForEach\obj\Debug\net6.0\Net-Core-While-ForEach.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-While-ForEach\obj\Debug\net6.0\Net-Core-While-ForEach.dll
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-While-ForEach\obj\Debug\net6.0\refint\Net-Core-While-ForEach.dll
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-While-ForEach\obj\Debug\net6.0\Net-Core-While-ForEach.pdb
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-While-ForEach\obj\Debug\net6.0\Net-Core-While-ForEach.genruntimeconfig.cache
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-While-ForEach\obj\Debug\net6.0\ref\Net-Core-While-ForEach.dll
