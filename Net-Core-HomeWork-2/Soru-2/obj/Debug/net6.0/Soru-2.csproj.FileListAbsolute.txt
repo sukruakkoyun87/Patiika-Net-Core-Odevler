@@ -1,0 +1,5 @@
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-HomeWork-2\Soru-2\obj\Debug\net6.0\Soru-2.csproj.AssemblyReference.cache
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-HomeWork-2\Soru-2\obj\Debug\net6.0\Soru-2.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-HomeWork-2\Soru-2\obj\Debug\net6.0\Soru-2.AssemblyInfoInputs.cache
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-HomeWork-2\Soru-2\obj\Debug\net6.0\Soru-2.AssemblyInfo.cs
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-HomeWork-2\Soru-2\obj\Debug\net6.0\Soru-2.csproj.CoreCompileInputs.cache
