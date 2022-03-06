@@ -1,0 +1,15 @@
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-Phone-Book\bin\Debug\net6.0\Net-Core-Phone-Book.exe
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-Phone-Book\bin\Debug\net6.0\Net-Core-Phone-Book.deps.json
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-Phone-Book\bin\Debug\net6.0\Net-Core-Phone-Book.runtimeconfig.json
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-Phone-Book\bin\Debug\net6.0\Net-Core-Phone-Book.dll
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-Phone-Book\bin\Debug\net6.0\Net-Core-Phone-Book.pdb
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-Phone-Book\obj\Debug\net6.0\Net-Core-Phone-Book.csproj.AssemblyReference.cache
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-Phone-Book\obj\Debug\net6.0\Net-Core-Phone-Book.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-Phone-Book\obj\Debug\net6.0\Net-Core-Phone-Book.AssemblyInfoInputs.cache
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-Phone-Book\obj\Debug\net6.0\Net-Core-Phone-Book.AssemblyInfo.cs
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-Phone-Book\obj\Debug\net6.0\Net-Core-Phone-Book.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-Phone-Book\obj\Debug\net6.0\Net-Core-Phone-Book.dll
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-Phone-Book\obj\Debug\net6.0\refint\Net-Core-Phone-Book.dll
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-Phone-Book\obj\Debug\net6.0\Net-Core-Phone-Book.pdb
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-Phone-Book\obj\Debug\net6.0\Net-Core-Phone-Book.genruntimeconfig.cache
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-Phone-Book\obj\Debug\net6.0\ref\Net-Core-Phone-Book.dll
