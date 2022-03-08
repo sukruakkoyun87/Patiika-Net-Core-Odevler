@@ -182,7 +182,7 @@ async void NumaraSil()
     {
         Console.WriteLine("Aradığınız kriterde uygun veri rehberde bulunamadı. Lütfen bir secim yapınız .");
         Console.WriteLine(" * Silmeyi sonlandirmak için : (1)");
-        Console.WriteLine(" * Yeniden denemel için      : (2)");
+        Console.WriteLine(" * Yeniden denemek için      : (2)");
         int secim = Convert.ToInt32(Console.ReadLine());
         switch (secim)
         {

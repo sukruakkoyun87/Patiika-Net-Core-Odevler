@@ -1,0 +1,15 @@
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-ToDo\bin\Debug\net6.0\Net-Core-ToDo.exe
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-ToDo\bin\Debug\net6.0\Net-Core-ToDo.deps.json
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-ToDo\bin\Debug\net6.0\Net-Core-ToDo.runtimeconfig.json
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-ToDo\bin\Debug\net6.0\Net-Core-ToDo.dll
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-ToDo\bin\Debug\net6.0\Net-Core-ToDo.pdb
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-ToDo\obj\Debug\net6.0\Net-Core-ToDo.csproj.AssemblyReference.cache
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-ToDo\obj\Debug\net6.0\Net-Core-ToDo.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-ToDo\obj\Debug\net6.0\Net-Core-ToDo.AssemblyInfoInputs.cache
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-ToDo\obj\Debug\net6.0\Net-Core-ToDo.AssemblyInfo.cs
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-ToDo\obj\Debug\net6.0\Net-Core-ToDo.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-ToDo\obj\Debug\net6.0\Net-Core-ToDo.dll
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-ToDo\obj\Debug\net6.0\refint\Net-Core-ToDo.dll
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-ToDo\obj\Debug\net6.0\Net-Core-ToDo.pdb
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-ToDo\obj\Debug\net6.0\Net-Core-ToDo.genruntimeconfig.cache
+D:\WorkSpace\Patika\Net-Core\Patika-Net-Core-Odevler\Net-Core-ToDo\obj\Debug\net6.0\ref\Net-Core-ToDo.dll
